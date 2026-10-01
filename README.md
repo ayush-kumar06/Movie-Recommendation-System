@@ -112,10 +112,10 @@ The TMDB API is used to retrieve the poster of each recommended movie.
 ## 📸 Application Preview
 
 <p align="center">
-  <img src="demo.png" alt="Movie Recommendation System - Streamlit UI" width="900">
+  <img src="https://raw.githubusercontent.com/ayush-kumar06/Movie-Recommendation-System/main/demo.png" alt="Movie Recommendation System" width="900">
 </p>
 
-The application provides a clean and interactive interface where users can select a movie and receive the Top 10 similar movie recommendations with movie posters fetched through the TMDB API.
+The application provides a clean and interactive interface where users can select a movie and receive the **Top 10 similar movie recommendations** with movie posters fetched through the TMDB API.
 
 ---
 
