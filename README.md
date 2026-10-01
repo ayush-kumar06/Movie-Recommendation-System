@@ -337,7 +337,7 @@ This project demonstrates practical implementation of:
 B.Tech — Computer Science & Engineering (AI & ML)
 
 - 🔗 GitHub: [@ayush-kumar06](https://github.com/ayush-kumar06)
-- 💼 LinkedIn: Ayush Kumar
+- 💼 LinkedIn: [Ayush Kumar](https://www.linkedin.com/in/ayush-kumar-161380327?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
